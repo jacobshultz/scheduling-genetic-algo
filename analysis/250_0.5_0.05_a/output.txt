@@ -1,0 +1,71 @@
+GA Started at 2026-10-01 09:08:36.798686
+Parameters are: N=250, Max Gens=350, Pc=0.5, Pm=0.05, Selection: tourna
+Generation 100 at 2026-10-01 09:08:57.011218
+Generation 200 at 2026-10-01 09:09:18.645943
+Generation 300 at 2026-10-01 09:09:42.711123
+GA has reached target generations (350) at 2026-10-01 09:09:54.211090
+
+Best schedule recorded of fitness score: -190 in generation 67. See details below.
+
+Period: 9
+Room: BL134 (30), Course: cs045 (20), Prof: Ohl
+Room: BL138 (50), Course: Soc100 (45), Prof: Meg
+Room: KR224 (40), Course: math002 (40), Prof: Brian
+Room: KR206 (30), Course: None
+Room: Biddle123 (35), Course: cs015 (35), Prof: Mr xxx
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: math001 (60), Prof: Peter
+
+Period: 10
+Room: BL134 (30), Course: None
+Room: BL138 (50), Course: Soc100 (35), Prof: Meg
+Room: KR224 (40), Course: None
+Room: KR206 (30), Course: cs456 (20), Prof: Bilitski
+Room: Biddle123 (35), Course: cs015 (35), Prof: Mr xxx
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: None
+
+Period: 11
+Room: BL134 (30), Course: cs455 (20), Prof: Ohl
+Room: BL138 (50), Course: math002 (50), Prof: Brian
+Room: KR224 (40), Course: math001 (40), Prof: Peter
+Room: KR206 (30), Course: cs1783 (15), Prof: Bilitski
+Room: Biddle123 (35), Course: None
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: None
+
+Period: 12
+Room: BL134 (30), Course: PSY200 (30), Prof: Glen
+Room: BL138 (50), Course: Soc100 (40), Prof: Meg
+Room: KR224 (40), Course: None
+Room: KR206 (30), Course: cs015 (20), Prof: Sandro
+Room: Biddle123 (35), Course: None
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: None
+
+Period: 1
+Room: BL134 (30), Course: cs045 (20), Prof: Ohl
+Room: BL138 (50), Course: None
+Room: KR224 (40), Course: None
+Room: KR206 (30), Course: CS047 (15), Prof: Stewie
+Room: Biddle123 (35), Course: cs015 (35), Prof: Frederick
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: None
+
+Period: 2
+Room: BL134 (30), Course: PSY200 (30), Prof: Glen
+Room: BL138 (50), Course: math001 (50), Prof: Peter
+Room: KR224 (40), Course: None
+Room: KR206 (30), Course: cs456 (20), Prof: Bilitski
+Room: Biddle123 (35), Course: None
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: None
+
+Period: 3
+Room: BL134 (30), Course: cs455 (20), Prof: Ohl
+Room: BL138 (50), Course: cs015 (35), Prof: Sandro
+Room: KR224 (40), Course: None
+Room: KR206 (30), Course: CS047 (15), Prof: Stewie
+Room: Biddle123 (35), Course: PSY200 (35), Prof: Glen
+Room: Biddle205 (45), Course: None
+Room: ES100 (100), Course: math002 (60), Prof: Brian
